@@ -1,0 +1,11 @@
+name, effect,  effectValue
+Scandal, decreases, -0.04
+Loss of key staff members, decreases, -0.02
+Bad Press, decreases, -0.05
+Bad Speech, decreases, -0.03
+Bad Debate, decreases, -0.02
+Good Press, increases, 0.03
+Good Speech, increases, 0.03
+Good Debate, increases, 0.02
+Celebrity Fundraiser, increases, 0.01
+Talk show host bias, increases, 0.01

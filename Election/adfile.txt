@@ -1,0 +1,6 @@
+name,valueEffect,cost
+TVAd,0.21,10000
+WebAd,0.28,1000
+Newspaper,0.07,500
+Flyer,0.105,250
+Radio,0.175,750
